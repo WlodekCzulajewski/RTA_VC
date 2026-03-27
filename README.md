@@ -1,1 +1,1 @@
-# RTA_VC
+# Analiza danych w czasie rzeczywistym
